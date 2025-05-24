@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GSON_jar</output-path>
+    <root id="archive" name="ConversorDeMoneda.jar">
+      <element id="module-output" name="ConversorDeMoneda" />
+      <element id="file-copy" path="$PROJECT_DIR$/../HTML.html.txt" />
+    </root>
+  </artifact>
+</component>
